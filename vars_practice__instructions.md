@@ -1,8 +1,9 @@
 # 0.4-variables-practice
 ## Startup
-1. Open VS Code.
-2. Under 3_Practice Folder, Create a new file called vars_practice.py
-3. Copy Paste the code below into that file 
+1. Git clone this repository and save it in your Practice Folder.
+2. Open VS Code.
+3. In this repository, create a new file called vars_practice.py
+4. Copy Paste the code below into that file
 
 ## Instructions
 
