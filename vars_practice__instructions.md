@@ -3,7 +3,7 @@
 1. Git clone this repository and save it in your Practice Folder.
 2. Open VS Code.
 3. In this repository, create a new file called vars_practice.py
-4. Copy Paste the code below into that file
+4. Copy Paste the code below into that file 
 
 ## Instructions
 
