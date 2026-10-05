@@ -43,7 +43,7 @@ jobs:
           test-name: Variables practice output
           setup-command: ""
           command: python -m pytest test_vars_practice.py::test_vars_practice -q
-          timeout: 5
+          timeout: "5"
           max-score: 9
 
       - name: Autograding Reporter
