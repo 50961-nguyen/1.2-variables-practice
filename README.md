@@ -1,6 +1,6 @@
 # 0.4-variables-practice
 ## Startup
-1. Git clone this repository and save it in your Practice Folder.
+1. Git clone this repository and save it in your U1 Folder.
 2. Open VS Code.
 3. In this repository, create a new file called vars_practice.py
 4. Copy Paste the code below into that file 
